@@ -1,0 +1,25 @@
+{
+    "name": "countdown-stars",
+    "version": "1.0.0",
+    "description": "A timer that counts down in the terminal",
+    "main": "countStars.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "minimist": "^1.2.0",
+        "single-line-log": "^1.1.2",
+        "tiny-timer": "^1.4.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "clock",
+        "countdown",
+        "timer"
+    ],
+    "author": "momo rao",
+    "license": "ISC"
+}
