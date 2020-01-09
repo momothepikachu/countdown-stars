@@ -1,6 +1,6 @@
 {
     "name": "countdown-stars",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A timer that counts down in the terminal",
     "main": "countStars.js",
     "directories": {
